@@ -12,3 +12,9 @@ B.	Training a basic SVM model using Named Entity Recognition and Count vectorize
 A count vectorizer matrix and a binary array are created from the articles and are used as input to train a SVM model. Count Vectorizer is method that is used to convert the text into a matrix of counts while NER is used to find entity words to form the binary array. 
 C.	Training various models using different kernels of SVM
 To add more context to the summary, four important features are identified, and five models are formed by different combinations of these features. The features include Entity Count, TD-IDF score, Count Vectorizer and sentence length. The models are trained by using different kernels of SVM and their accuracies are noted.
+
+# Group Members
+1. Kathan Bhavsar
+2. Twinkle Popat
+3. Rushali Moteria
+4. Neel Buddhdev
